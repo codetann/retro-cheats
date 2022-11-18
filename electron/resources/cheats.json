@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Nintendo - Gameboy Advanced",
+    "path": "nintendo-gameboy-advanced",
+    "cheates": [
+      {
+        "id": 1,
+        "desc": "Infinite Health",
+        "code": ["C4000604", "44018CB4"],
+        "enabled": false
+      },
+      {
+        "id": 2,
+        "desc": "No Random Battles",
+        "code": ["C4000604", "44018CB4"],
+        "enabled": false
+      }
+    ]
+  }
+]
